@@ -10,7 +10,7 @@ Welcome to my JavaScript portfolio! Here I keep the mini-projects I built to pra
 
 ### 1. Employee Dashboard
 A system to add, edit, fire, and search employees. It also calculates salary statistics.
-* **Link:** [Live Demo ](https://yulialopaev.github.io/vanilla-js-projects/employee-hub/)
+* **Link:** [Live Demo ](https://yulialopaev.github.io/employee-dashboard/)
 
 ### 2. Sportloto Game
 A random number generator that finds unique winning combinations and shows math statistics.
