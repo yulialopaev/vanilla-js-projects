@@ -20,7 +20,6 @@ A random number generator that finds unique winning combinations and shows math 
 An app that talks to a real server (API) using `fetch`. It finds users and their posts by ID.
 * **Link:** [Live Demo ](https://yulialopaev.github.io/vanilla-js-projects/fetch-users/)
 
-*(Note: update the folder links above with your real folder names!)*
 
 ##  Key Skills Used
 - Vanilla JavaScript (ES6+)
