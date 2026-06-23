@@ -29,5 +29,5 @@ An app that talks to a real server (API) using `fetch`. It finds users and their
 - HTML5 & CSS3 (Flexbox/Grid)
 
 ##  Contact Me
-- **My CV:** [https://yulialopaev.github.io/cv/)]
+- **My CV:** [https://yulialopaev.github.io/cv/]
 - **LinkedIn:** [https://www.linkedin.com/in/yulialopaev](https://www.linkedin.com/in/yulialopaev/)
