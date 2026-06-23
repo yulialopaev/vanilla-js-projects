@@ -1,6 +1,6 @@
-# Vanilla JavaScript Portfolio
+# Vanilla JavaScript 
 
-Welcome to my JavaScript portfolio! Here I keep the mini-projects I built to practice frontend development. Everything here is written in pure JavaScript (no React or other frameworks yet).
+Here I keep the mini-projects I built to practice frontend development. Everything here is written in pure JavaScript (no React or other frameworks yet).
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
