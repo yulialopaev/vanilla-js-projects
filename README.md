@@ -14,7 +14,7 @@ A system to add, edit, fire, and search employees. It also calculates salary sta
 
 ### 2. Sportloto Game
 A random number generator that finds unique winning combinations and shows math statistics.
-* **Link:** [Live Demo ](https://yulialopaev.github.io/vanilla-js-projects/sportloto/)
+* **Link:** [Live Demo ](https://yulialopaev.github.io/sportloto/)
 
 ### 3. User & Posts Finder
 An app that talks to a real server (API) using `fetch`. It finds users and their posts by ID.
